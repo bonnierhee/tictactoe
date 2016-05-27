@@ -1,0 +1,30 @@
+body {
+  background-color: #000080;
+}
+
+.title {
+  color: red;
+}
+
+h1, p {
+  font-family: Georgia;
+  color: white;
+}
+
+div.description p.first-paragraph {
+  font-size: 100px;
+  border: 1px black solid;
+  background-color: #5B9C64;
+  padding: 10px;
+  margin: 100px;
+}
+
+.images {
+  text-align: center;
+  color: white;
+}
+
+img {
+  margin: 0 auto;
+  display: block;
+}
